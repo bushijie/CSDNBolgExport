@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 22 18:46:57 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=e\:\\bolgTools4Export.jar
+manifest.mergeall=true
+manifest.mainclass=com.bushijie.BokeExpoetTools
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
